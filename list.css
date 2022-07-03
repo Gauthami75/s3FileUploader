@@ -1,0 +1,10 @@
+.downloadList h1{
+    text-align: center;
+}
+.downloadList a{
+    text-decoration: none;
+    margin-left: 2%;
+}
+.listOfFiles{
+    display: inline;
+}
